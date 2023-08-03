@@ -1,1 +1,1 @@
-prints the kernel name
+ubuntu readme file
